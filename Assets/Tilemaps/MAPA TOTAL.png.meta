@@ -1,0 +1,4363 @@
+fileFormatVersion: 2
+guid: fa66b8119b63d1a44a1d14b8d8757e89
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1978020137962760964
+    second: MAPA TOTAL_0
+  - first:
+      213: -8590422630777411945
+    second: MAPA TOTAL_1
+  - first:
+      213: 1994664281217932185
+    second: MAPA TOTAL_2
+  - first:
+      213: 6384535721846526958
+    second: MAPA TOTAL_3
+  - first:
+      213: -6523603756257452776
+    second: MAPA TOTAL_4
+  - first:
+      213: -2742318915363838293
+    second: MAPA TOTAL_5
+  - first:
+      213: -6238708608204497081
+    second: MAPA TOTAL_6
+  - first:
+      213: 2714931153934127745
+    second: MAPA TOTAL_7
+  - first:
+      213: -6817360437318999090
+    second: MAPA TOTAL_8
+  - first:
+      213: -5155940311060757721
+    second: MAPA TOTAL_9
+  - first:
+      213: 4879727666982999209
+    second: MAPA TOTAL_10
+  - first:
+      213: 1774773987276107478
+    second: MAPA TOTAL_11
+  - first:
+      213: -4658896460784061972
+    second: MAPA TOTAL_12
+  - first:
+      213: 8181333353236825609
+    second: MAPA TOTAL_13
+  - first:
+      213: -1255817220104590044
+    second: MAPA TOTAL_14
+  - first:
+      213: -1344071590048444892
+    second: MAPA TOTAL_15
+  - first:
+      213: 8903513361339707485
+    second: MAPA TOTAL_16
+  - first:
+      213: 4673923986451701626
+    second: MAPA TOTAL_17
+  - first:
+      213: 1441444925241617203
+    second: MAPA TOTAL_18
+  - first:
+      213: 8090082987429105758
+    second: MAPA TOTAL_19
+  - first:
+      213: -5915538680913223327
+    second: MAPA TOTAL_20
+  - first:
+      213: 8988435152448054325
+    second: MAPA TOTAL_21
+  - first:
+      213: -3551681477316384710
+    second: MAPA TOTAL_22
+  - first:
+      213: 3513761874831476014
+    second: MAPA TOTAL_23
+  - first:
+      213: -3605858229481331855
+    second: MAPA TOTAL_24
+  - first:
+      213: 9148710193999776921
+    second: MAPA TOTAL_25
+  - first:
+      213: -355556257500753432
+    second: MAPA TOTAL_26
+  - first:
+      213: -6065865819888375043
+    second: MAPA TOTAL_27
+  - first:
+      213: -5956977724635190831
+    second: MAPA TOTAL_28
+  - first:
+      213: 7071158993153874862
+    second: MAPA TOTAL_29
+  - first:
+      213: -4298454437180077166
+    second: MAPA TOTAL_30
+  - first:
+      213: 2582645936728923793
+    second: MAPA TOTAL_31
+  - first:
+      213: -5474469294953266645
+    second: MAPA TOTAL_32
+  - first:
+      213: 596006373170735498
+    second: MAPA TOTAL_33
+  - first:
+      213: -5519953826996998731
+    second: MAPA TOTAL_34
+  - first:
+      213: 1339795393545350470
+    second: MAPA TOTAL_35
+  - first:
+      213: 6297431195338420595
+    second: MAPA TOTAL_36
+  - first:
+      213: -1958101306040374052
+    second: MAPA TOTAL_37
+  - first:
+      213: -9093982984419642100
+    second: MAPA TOTAL_38
+  - first:
+      213: -4180419201412349073
+    second: MAPA TOTAL_39
+  - first:
+      213: -4076369594486583889
+    second: MAPA TOTAL_40
+  - first:
+      213: -8310239559906453344
+    second: MAPA TOTAL_41
+  - first:
+      213: 222232370862338271
+    second: MAPA TOTAL_42
+  - first:
+      213: -4295569193936276620
+    second: MAPA TOTAL_43
+  - first:
+      213: -9213449610483829775
+    second: MAPA TOTAL_44
+  - first:
+      213: 5532787611243865757
+    second: MAPA TOTAL_45
+  - first:
+      213: 4007823453231376466
+    second: MAPA TOTAL_46
+  - first:
+      213: -848378771961666607
+    second: MAPA TOTAL_47
+  - first:
+      213: 907976396744729101
+    second: MAPA TOTAL_48
+  - first:
+      213: 7935361353054637964
+    second: MAPA TOTAL_49
+  - first:
+      213: -5416428495148969142
+    second: MAPA TOTAL_50
+  - first:
+      213: -3059551594775258092
+    second: MAPA TOTAL_51
+  - first:
+      213: -2865940836337570333
+    second: MAPA TOTAL_52
+  - first:
+      213: -5937455681255262619
+    second: MAPA TOTAL_53
+  - first:
+      213: -4809417295033238737
+    second: MAPA TOTAL_54
+  - first:
+      213: 2703422673238064037
+    second: MAPA TOTAL_55
+  - first:
+      213: 7319389002275918049
+    second: MAPA TOTAL_56
+  - first:
+      213: -7421486478217775944
+    second: MAPA TOTAL_57
+  - first:
+      213: 5419437734548177311
+    second: MAPA TOTAL_58
+  - first:
+      213: 3999983354063136621
+    second: MAPA TOTAL_59
+  - first:
+      213: 3432556640575342732
+    second: MAPA TOTAL_60
+  - first:
+      213: -5871478974296380821
+    second: MAPA TOTAL_61
+  - first:
+      213: -6595636128126633343
+    second: MAPA TOTAL_62
+  - first:
+      213: 4949159823043828588
+    second: MAPA TOTAL_63
+  - first:
+      213: -5074486484605629897
+    second: MAPA TOTAL_64
+  - first:
+      213: -4663867054206428894
+    second: MAPA TOTAL_65
+  - first:
+      213: -7390951647218699531
+    second: MAPA TOTAL_66
+  - first:
+      213: -860974729265976908
+    second: MAPA TOTAL_67
+  - first:
+      213: -3637398346864778565
+    second: MAPA TOTAL_68
+  - first:
+      213: 5028813317766092895
+    second: MAPA TOTAL_69
+  - first:
+      213: -4562163498223592744
+    second: MAPA TOTAL_70
+  - first:
+      213: 3833901394121773107
+    second: MAPA TOTAL_71
+  - first:
+      213: 3741307863227850949
+    second: MAPA TOTAL_72
+  - first:
+      213: 4649801085108811665
+    second: MAPA TOTAL_73
+  - first:
+      213: 8496668411231688524
+    second: MAPA TOTAL_74
+  - first:
+      213: -7426851758078389467
+    second: MAPA TOTAL_75
+  - first:
+      213: 7874392157475715266
+    second: MAPA TOTAL_76
+  - first:
+      213: 3358129845702192212
+    second: MAPA TOTAL_77
+  - first:
+      213: -646192660750463057
+    second: MAPA TOTAL_78
+  - first:
+      213: -8478169176354866033
+    second: MAPA TOTAL_79
+  - first:
+      213: -2475195037662127379
+    second: MAPA TOTAL_80
+  - first:
+      213: -1761974618683970600
+    second: MAPA TOTAL_81
+  - first:
+      213: -1117434564128216325
+    second: MAPA TOTAL_82
+  - first:
+      213: -5895414353046011084
+    second: MAPA TOTAL_83
+  - first:
+      213: -7848684149698601579
+    second: MAPA TOTAL_84
+  - first:
+      213: 8285869796139719669
+    second: MAPA TOTAL_85
+  - first:
+      213: -6515529078438284028
+    second: MAPA TOTAL_86
+  - first:
+      213: 3851120105667706847
+    second: MAPA TOTAL_87
+  - first:
+      213: 8615331741720079814
+    second: MAPA TOTAL_88
+  - first:
+      213: -1653524050897044626
+    second: MAPA TOTAL_89
+  - first:
+      213: -2643330717595038896
+    second: MAPA TOTAL_90
+  - first:
+      213: 90226571436684690
+    second: MAPA TOTAL_91
+  - first:
+      213: -3621263236665939178
+    second: MAPA TOTAL_92
+  - first:
+      213: 2493418608967196461
+    second: MAPA TOTAL_93
+  - first:
+      213: -2255680301673154681
+    second: MAPA TOTAL_94
+  - first:
+      213: 1045956606800827273
+    second: MAPA TOTAL_95
+  - first:
+      213: -1846382154858791035
+    second: MAPA TOTAL_96
+  - first:
+      213: 770007043681725375
+    second: MAPA TOTAL_97
+  - first:
+      213: 2357794011815517116
+    second: MAPA TOTAL_98
+  - first:
+      213: -2957705403920706694
+    second: MAPA TOTAL_99
+  - first:
+      213: -3091454941587896929
+    second: MAPA TOTAL_100
+  - first:
+      213: -5593034120657274216
+    second: MAPA TOTAL_101
+  - first:
+      213: 544931663653969418
+    second: MAPA TOTAL_102
+  - first:
+      213: -8815026227055008410
+    second: MAPA TOTAL_103
+  - first:
+      213: -8595377225067047226
+    second: MAPA TOTAL_104
+  - first:
+      213: 3337876333594054689
+    second: MAPA TOTAL_105
+  - first:
+      213: 759615397159685197
+    second: MAPA TOTAL_106
+  - first:
+      213: -5433865779273467802
+    second: MAPA TOTAL_107
+  - first:
+      213: -6960996624728327697
+    second: MAPA TOTAL_108
+  - first:
+      213: 4427938099621576417
+    second: MAPA TOTAL_109
+  - first:
+      213: -4323542246123822281
+    second: MAPA TOTAL_110
+  - first:
+      213: -4273702753345201159
+    second: MAPA TOTAL_111
+  - first:
+      213: 6762790419378882949
+    second: MAPA TOTAL_112
+  - first:
+      213: 8916027449955432917
+    second: MAPA TOTAL_113
+  - first:
+      213: -7845015843720304292
+    second: MAPA TOTAL_114
+  - first:
+      213: -7583021631022093990
+    second: MAPA TOTAL_115
+  - first:
+      213: 2399806528202293920
+    second: MAPA TOTAL_116
+  - first:
+      213: -6741668928667249690
+    second: MAPA TOTAL_117
+  - first:
+      213: 2948075328376792911
+    second: MAPA TOTAL_118
+  - first:
+      213: -2750587779315574084
+    second: MAPA TOTAL_119
+  - first:
+      213: -1611523246543224804
+    second: MAPA TOTAL_120
+  - first:
+      213: 6721109874642899477
+    second: MAPA TOTAL_121
+  - first:
+      213: 8976388479611964965
+    second: MAPA TOTAL_122
+  - first:
+      213: -5829524174627941775
+    second: MAPA TOTAL_123
+  - first:
+      213: 1370548144292526622
+    second: MAPA TOTAL_124
+  - first:
+      213: -3195461427841697725
+    second: MAPA TOTAL_125
+  - first:
+      213: -1906650412209656456
+    second: MAPA TOTAL_126
+  - first:
+      213: -8877673592169744307
+    second: MAPA TOTAL_127
+  - first:
+      213: -2690151924093421135
+    second: MAPA TOTAL_128
+  - first:
+      213: -9034575480525723572
+    second: MAPA TOTAL_129
+  - first:
+      213: 1440641675945936279
+    second: MAPA TOTAL_130
+  - first:
+      213: 5480586629867493461
+    second: MAPA TOTAL_131
+  - first:
+      213: 4919637814576248214
+    second: MAPA TOTAL_132
+  - first:
+      213: 8685763850935149952
+    second: MAPA TOTAL_133
+  - first:
+      213: -8709312722334497358
+    second: MAPA TOTAL_134
+  - first:
+      213: -5216829268247360077
+    second: MAPA TOTAL_135
+  - first:
+      213: 5977058995535984933
+    second: MAPA TOTAL_136
+  - first:
+      213: -1314364718056689605
+    second: MAPA TOTAL_137
+  - first:
+      213: -2360364689883746183
+    second: MAPA TOTAL_138
+  - first:
+      213: -3260101847429076201
+    second: MAPA TOTAL_139
+  - first:
+      213: -707443849457303414
+    second: MAPA TOTAL_140
+  - first:
+      213: -6387457424722289986
+    second: MAPA TOTAL_141
+  - first:
+      213: -6391168623756256208
+    second: MAPA TOTAL_142
+  - first:
+      213: 3091460681177545652
+    second: MAPA TOTAL_143
+  - first:
+      213: -8790300801551271608
+    second: MAPA TOTAL_144
+  - first:
+      213: -7979888493881481264
+    second: MAPA TOTAL_145
+  - first:
+      213: 4408187600489347498
+    second: MAPA TOTAL_146
+  - first:
+      213: -599445102031602676
+    second: MAPA TOTAL_147
+  - first:
+      213: -4754280841372250670
+    second: MAPA TOTAL_148
+  - first:
+      213: 5168727952734876306
+    second: MAPA TOTAL_149
+  - first:
+      213: -1441980601547460886
+    second: MAPA TOTAL_150
+  - first:
+      213: -3720584152989007709
+    second: MAPA TOTAL_151
+  - first:
+      213: -2107779677723524938
+    second: MAPA TOTAL_152
+  - first:
+      213: 4421364687941341440
+    second: MAPA TOTAL_153
+  - first:
+      213: -376391831964488774
+    second: MAPA TOTAL_154
+  - first:
+      213: -2597340832911516250
+    second: MAPA TOTAL_155
+  - first:
+      213: 1007344128237157321
+    second: MAPA TOTAL_156
+  - first:
+      213: 3959338606314124667
+    second: MAPA TOTAL_157
+  - first:
+      213: -2834441434603567036
+    second: MAPA TOTAL_158
+  - first:
+      213: 4735026878007448177
+    second: MAPA TOTAL_159
+  - first:
+      213: -1937472002149884558
+    second: MAPA TOTAL_160
+  - first:
+      213: -3876336260793970455
+    second: MAPA TOTAL_161
+  - first:
+      213: 3896694121948278364
+    second: MAPA TOTAL_162
+  - first:
+      213: 5942121546881023512
+    second: MAPA TOTAL_163
+  - first:
+      213: -3199355955038851986
+    second: MAPA TOTAL_164
+  - first:
+      213: 3400995591607882869
+    second: MAPA TOTAL_165
+  - first:
+      213: -7256111768520122254
+    second: MAPA TOTAL_166
+  - first:
+      213: -5256454863688140901
+    second: MAPA TOTAL_167
+  - first:
+      213: 2694005761194822084
+    second: MAPA TOTAL_168
+  - first:
+      213: 6150349232244119399
+    second: MAPA TOTAL_169
+  - first:
+      213: -4686710682570056924
+    second: MAPA TOTAL_170
+  - first:
+      213: 7357256168003670826
+    second: MAPA TOTAL_171
+  - first:
+      213: -8952707023933677610
+    second: MAPA TOTAL_172
+  - first:
+      213: 1392822861995110557
+    second: MAPA TOTAL_173
+  - first:
+      213: -4710997010761945389
+    second: MAPA TOTAL_174
+  - first:
+      213: -7191152409309308505
+    second: MAPA TOTAL_175
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 33
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MAPA TOTAL_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 938
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17f086c887796e4ea0385e671345050
+      internalID: 1978020137962760964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 938
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a35e5d798123694ca69d8444c2e5220
+      internalID: -8590422630777411945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_2
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 938
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ad4308e529bba4eb2992640a0f65e9
+      internalID: 1994664281217932185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_3
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 938
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e7f81faa1a8f142a0c44c41b720633
+      internalID: 6384535721846526958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_4
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 938
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb00378dff7a5bf458e16feec4f3b9b6
+      internalID: -6523603756257452776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_5
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 938
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41041494d7d3e4429f84eb696b2ccfa
+      internalID: -2742318915363838293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_6
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 938
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8766ecfa1f10ca4487365755e300590
+      internalID: -6238708608204497081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_7
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 938
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ecf42ab2e7e9c342b97af47146a45aa
+      internalID: 2714931153934127745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_8
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 938
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f01a515ad4dfd4fa4cf98e1808bd4f
+      internalID: -6817360437318999090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_9
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 938
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ce639417ce5574da6c5c3e8e2e31f2
+      internalID: -5155940311060757721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_10
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 938
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9092ef2dd57fe1841941209cddac30e2
+      internalID: 4879727666982999209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_11
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 938
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35cc6e16d7e2d5c428796f3d828d3320
+      internalID: 1774773987276107478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_12
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 938
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1702c879acd9f4e9ea1091a157aedf
+      internalID: -4658896460784061972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_13
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 938
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5caf732c39f0b498efbc56cc393f6b
+      internalID: 8181333353236825609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_14
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 938
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b5c54b039d13d438582888e6d634ab
+      internalID: -1255817220104590044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_15
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 868
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118731639bd2d4f4aa241f99b60445b0
+      internalID: -1344071590048444892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_16
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 868
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4481a2f148b6aba409a98d599c5eee35
+      internalID: 8903513361339707485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_17
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 868
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2530c7e94c6945b45a6c8772197f7899
+      internalID: 4673923986451701626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_18
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 868
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47aab968da91d334182057ec98665b1f
+      internalID: 1441444925241617203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_19
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 868
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff740e61468d734c8a4eb6c79f70e09
+      internalID: 8090082987429105758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_20
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 868
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af21013b2c3748044a75983b87f04375
+      internalID: -5915538680913223327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_21
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 868
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2664d08ff5e4f99408560b58ccf5d199
+      internalID: 8988435152448054325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_22
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 868
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f373864aef89d468162093e89fedca
+      internalID: -3551681477316384710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_23
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 868
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5eb258bf1680f4ab40c13581ab385d
+      internalID: 3513761874831476014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_24
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 868
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4bf944f8070074ebc6047a51a1c98b
+      internalID: -3605858229481331855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_25
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 868
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ec6ec964901894aa51281fe7279b64
+      internalID: 9148710193999776921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_26
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 868
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8475f323cf5d6488b488ba26d78faf
+      internalID: -355556257500753432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_27
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 868
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7146d90055fb145a58ea0f53e5f5ce
+      internalID: -6065865819888375043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_28
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 868
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5569855edae23d439c4fbfa3626d724
+      internalID: -5956977724635190831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_29
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 868
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c756a3a5312c8347a6af9ae4a59d3ff
+      internalID: 7071158993153874862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_30
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 868
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f114fb8444745714a99bb786b5c95494
+      internalID: -4298454437180077166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_31
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 868
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5edf5efd0b030c4f9f5a9063d4937fb
+      internalID: 2582645936728923793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_32
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 798
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867ebd1a853e00546a4bc0c26ef3e2d6
+      internalID: -5474469294953266645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_33
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 798
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98353dd0425d80445ae6442cd08be5bb
+      internalID: 596006373170735498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_34
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 798
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9f2eee6ddc8de49912187e714e7bc1
+      internalID: -5519953826996998731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_35
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 798
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb24fc254fab8d4b95fcc8809dbae9d
+      internalID: 1339795393545350470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_36
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 798
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c7a0cfd6873fd4eb181e36383098ec
+      internalID: 6297431195338420595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_37
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 798
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4830887856528834e9f0ae61ec6a2029
+      internalID: -1958101306040374052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_38
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 798
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6146cd079a9d17c4fbcd35ffdfe1bf70
+      internalID: -9093982984419642100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_39
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 798
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6dc297d11f597418b3719d997fa9b5
+      internalID: -4180419201412349073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_40
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 798
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8469ea2a1f7b3554c8c8c6332c396872
+      internalID: -4076369594486583889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_41
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 798
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45adb7a09ac2cb84fa1e6444dc33b743
+      internalID: -8310239559906453344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_42
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 798
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1066842621885644b282de88c03e76d
+      internalID: 222232370862338271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_43
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 798
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f61858a6b0e3b2408ec3bf523b5d349
+      internalID: -4295569193936276620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_44
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 798
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8eef01c70dbdbb46b95368c46ebb8a0
+      internalID: -9213449610483829775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_45
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 798
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7160664b976654e92741942e49eb3d
+      internalID: 5532787611243865757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_46
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 798
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf498c048e438214d8256da21b6ea5e7
+      internalID: 4007823453231376466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_47
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 798
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451a8e5615f40dc419f4120728007843
+      internalID: -848378771961666607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_48
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 798
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1dffaa826553849b9a8aabd09ea911
+      internalID: 907976396744729101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_49
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 728
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573a8a30723cf7240af96837c607b9ea
+      internalID: 7935361353054637964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_50
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 728
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14af899963192a499adafaf1447c668
+      internalID: -5416428495148969142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_51
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 658
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f5dec7d4fb2194c9410c2e4c9245bc
+      internalID: -3059551594775258092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_52
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 658
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bfe6aef5514b3e4f8718e98e0412411
+      internalID: -2865940836337570333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_53
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 519
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9903b22c9757d694abc838587b79d731
+      internalID: -5937455681255262619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_54
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 518
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ca7ee11f238cb43a08c724b0a788c7
+      internalID: -4809417295033238737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_55
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 518
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338189f3361879241b369708e3725e24
+      internalID: 2703422673238064037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_56
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 518
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7484788eb4184045b0f49fc1c43cad1
+      internalID: 7319389002275918049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_57
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 518
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23b311852d4c674baad1340e8d34791
+      internalID: -7421486478217775944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_58
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 518
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d53729b906cae6448686512854b32e7
+      internalID: 5419437734548177311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_59
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 518
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6418e676c6ac23a4fba93f6b30673ea5
+      internalID: 3999983354063136621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_60
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 518
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33bf8f6391fd0b64a8e8070cb7a185a6
+      internalID: 3432556640575342732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_61
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 518
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b0ebee8345b0b4fbea0776ae38f1b9
+      internalID: -5871478974296380821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_62
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 518
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7c1324f267e5c4ebf7b5a765629008
+      internalID: -6595636128126633343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_63
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 518
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd2e1093e6a9bb408b99fc673f8a4bf
+      internalID: 4949159823043828588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_64
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 518
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c22b52732f5dd4e9c278885714b5d2
+      internalID: -5074486484605629897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_65
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 518
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c47a6f8204a3e74996498d575a4dac8
+      internalID: -4663867054206428894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_66
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 518
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9764ac0b89aa84c4ebad1abc9ec91b69
+      internalID: -7390951647218699531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_67
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 518
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4507ba488ba11c64c8a69e4a8e64bcaa
+      internalID: -860974729265976908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_68
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 448
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f8cdddbd8cc654b969d28c6fc0388b
+      internalID: -3637398346864778565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_69
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 448
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0499bcf8b30394293a3b7e9f0bf3be
+      internalID: 5028813317766092895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_70
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 448
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34402e23af283bf4caced2f74281cd95
+      internalID: -4562163498223592744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_71
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 448
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da758f9454efe3940b8d953887619aa4
+      internalID: 3833901394121773107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_72
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 448
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b038cf8615ede224283e1ad7231b5d97
+      internalID: 3741307863227850949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_73
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 448
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b5e10f509d1bc4eb3eceaab93307f6
+      internalID: 4649801085108811665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_74
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 448
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4771a40f39a5b04d8778bb1d46cc3fc
+      internalID: 8496668411231688524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_75
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 448
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ffcab9ce08a9e47be33d0e69d12ca4
+      internalID: -7426851758078389467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_76
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 448
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1f96977d5da9c438eba58264ce6477
+      internalID: 7874392157475715266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_77
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 448
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6048e1c583dfc2408447015132e3e8b
+      internalID: 3358129845702192212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_78
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 448
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da421116b614514084945f264b6f7c2
+      internalID: -646192660750463057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_79
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 448
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e801848eee86784f8602d853fa5311e
+      internalID: -8478169176354866033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_80
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 448
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c7c7ae928a8624bb603486ed86c71f
+      internalID: -2475195037662127379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_81
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 448
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8df11dc4072d1409d47772b44b8801
+      internalID: -1761974618683970600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_82
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 448
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ba1bcfbdbe60b4d9a14a7e11129ba7
+      internalID: -1117434564128216325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_83
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 378
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4495918a49aa44141875e925a1788545
+      internalID: -5895414353046011084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_84
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 378
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be185bfac71f3aa488f44f28eec3f9c6
+      internalID: -7848684149698601579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_85
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 378
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356814bcc007b64418ae7b5d1a5c0f30
+      internalID: 8285869796139719669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_86
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 378
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f946c4b87b3d5458a5d0bb0f57772d
+      internalID: -6515529078438284028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_87
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 378
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c45d70bf3d2634ca8b3a2874eb9c91
+      internalID: 3851120105667706847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_88
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 378
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b9eeddbe91c8745bc6baaa7bbdff94
+      internalID: 8615331741720079814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_89
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 378
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426a1895a2eccea46b1863118773b57d
+      internalID: -1653524050897044626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_90
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 378
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f843fa78f12734ca6a170def840c65
+      internalID: -2643330717595038896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_91
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 378
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e100934096840a0469d243af53043c60
+      internalID: 90226571436684690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_92
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 378
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b73ae5da9d26864c9bbdd501b1fe8d1
+      internalID: -3621263236665939178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_93
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 378
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283fe1d18c40191479673e237f573c9c
+      internalID: 2493418608967196461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_94
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 378
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9696add44b7de2c41b4e1785f8553e90
+      internalID: -2255680301673154681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_95
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 378
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d752652903a0c4bb783eef467e16f2
+      internalID: 1045956606800827273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_96
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 378
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c45b552aa27dea498524a2e77c47180
+      internalID: -1846382154858791035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_97
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 378
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b846673e574151d42ab598b49a57f3fb
+      internalID: 770007043681725375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_98
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 308
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50be70a3eaaf3ca4bbe121c9aae4832e
+      internalID: 2357794011815517116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_99
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 308
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec28b738448aee94b9ef47583b77415d
+      internalID: -2957705403920706694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_100
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 308
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592a086263ec1ad459892138af894b4e
+      internalID: -3091454941587896929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_101
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 308
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca30429abb4a01f4b8b0b840dd9369c2
+      internalID: -5593034120657274216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_102
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 308
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a289a0573b31f41b47f5ceeab50a2c
+      internalID: 544931663653969418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_103
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 308
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c90670a7bfdfec4bafaf27ea23b4c74
+      internalID: -8815026227055008410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_104
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 308
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc8036b6851b5147bd267171541d488
+      internalID: -8595377225067047226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_105
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 308
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c111f1977b27634e8d601c3bc510aea
+      internalID: 3337876333594054689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_106
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 308
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6db41a5b4b8dff41b323718e12a117d
+      internalID: 759615397159685197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_107
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 308
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9292d663ceb1d45b6ff3527f6e23fd
+      internalID: -5433865779273467802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_108
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 308
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7a4d888ac6f5843923344e85ee287e
+      internalID: -6960996624728327697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_109
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 308
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381327fa8c16f874a81dedd3f8653fe1
+      internalID: 4427938099621576417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_110
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 308
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9f9fb324134a94e830edc6b7a0d2f2
+      internalID: -4323542246123822281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_111
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 308
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31645cd77aa03fe4e82bc8a1c410cdaa
+      internalID: -4273702753345201159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_112
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 308
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7946be13688fb346a27abaa19c9fa41
+      internalID: 6762790419378882949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_113
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 238
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad905dc9d6fe41541bcd3d16d54c241e
+      internalID: 8916027449955432917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_114
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 238
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091c0c4481fd1164c91f7f1872d47e5a
+      internalID: -7845015843720304292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_115
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 238
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a404d68fb59204fab3b4e5faa30693
+      internalID: -7583021631022093990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_116
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 238
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb027339a1a0ac449ade662a7343c24
+      internalID: 2399806528202293920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_117
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 238
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ee42c12c0af74449296b2739bb9796
+      internalID: -6741668928667249690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_118
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 238
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc81e1952da72c546af14642414bfa02
+      internalID: 2948075328376792911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_119
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 238
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912358e0f09dc2a4c91bcb40c94cd800
+      internalID: -2750587779315574084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_120
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 238
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d25a03d0b55e8245978eff9181e5c62
+      internalID: -1611523246543224804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_121
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 238
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee8f63cfcdb7fd4ebf1f67fd6bb34e9
+      internalID: 6721109874642899477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_122
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 238
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c26e1c90546b154f9d1163bc1eb369b
+      internalID: 8976388479611964965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_123
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 238
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc69c241950af3408b2f0d8295874c8
+      internalID: -5829524174627941775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_124
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 238
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eacee65bde660d04ab5f8c416c227a87
+      internalID: 1370548144292526622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_125
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 238
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe46042d80515245961f6b6c1da1acc
+      internalID: -3195461427841697725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_126
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 238
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5292f96e0faed0249b12529501ab5a52
+      internalID: -1906650412209656456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_127
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 238
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e54c395bffd2845ac6b1c32b5bdf6f
+      internalID: -8877673592169744307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_128
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 168
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c565f8f2cfc91bb4dbd3ff187c9f1ff5
+      internalID: -2690151924093421135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_129
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 168
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4055383cbc6331247b4280da4245673f
+      internalID: -9034575480525723572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_130
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 168
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd5379a4ce73834fb791255151caaa6
+      internalID: 1440641675945936279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_131
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 168
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ffbf6c116f88de42bbb8f701f2d9e93
+      internalID: 5480586629867493461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_132
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 168
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9cdda5986736124fbf4745dbbc2b9c5
+      internalID: 4919637814576248214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_133
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 168
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b31a0edbc07784aa26d4e5d336441c
+      internalID: 8685763850935149952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_134
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 168
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802fe3da50f1e194cb1160ff032035ec
+      internalID: -8709312722334497358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_135
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 168
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0482876a765c211429ee8541dc5ef0d0
+      internalID: -5216829268247360077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_136
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 168
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9d3e8eaefb69a4c8d02bc2143b73cb
+      internalID: 5977058995535984933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_137
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 168
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41abc27bbf6af5648903ad1d0f700bda
+      internalID: -1314364718056689605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_138
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 168
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bfde231d975a7a40915522dab595a87
+      internalID: -2360364689883746183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_139
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 168
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b353787a2754b458d6c72c97de6f10
+      internalID: -3260101847429076201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_140
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 168
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc80a51c5bda8d4bafa47f56e0f7645
+      internalID: -707443849457303414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_141
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 168
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e36f46bb08fc94180795acde34783f
+      internalID: -6387457424722289986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_142
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 168
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ebd7127cdeb0e40975dbf3389d1be8
+      internalID: -6391168623756256208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_143
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 168
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890e085b98a652e4ca6fddac7c44f0e7
+      internalID: 3091460681177545652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_144
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 98
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b07839c3f22de5499ca1abe92bd22c7
+      internalID: -8790300801551271608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_145
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 98
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb99bdc3e2f8d148ab6c70730cc773e
+      internalID: -7979888493881481264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_146
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 98
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab7d840d065e1747a2c65019f9bfe85
+      internalID: 4408187600489347498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_147
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 98
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba5960285b29db4b9addc30d9d85226
+      internalID: -599445102031602676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_148
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 98
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fce404a8c2923347a58c2a68663a838
+      internalID: -4754280841372250670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_149
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 98
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03beea04e8282d94e97507c8e7c31bef
+      internalID: 5168727952734876306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_150
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 98
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6c4cd68eeda944caa01a19ab05c9aa
+      internalID: -1441980601547460886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_151
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 98
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f432f1e30dff4409b213be5bc3e5fd
+      internalID: -3720584152989007709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_152
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 98
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b6c3b5c6124b240a2bda10b6eac808
+      internalID: -2107779677723524938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_153
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 98
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02d3e0395e3da44a8372483b32eab3f
+      internalID: 4421364687941341440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_154
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 98
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856612e7cc06d084da0c7e5206489501
+      internalID: -376391831964488774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_155
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 98
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753ba5e2cd98c5a45b0f36e51ecd7ec2
+      internalID: -2597340832911516250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_156
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 98
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028666ed7321f574fb4601308b9d06bd
+      internalID: 1007344128237157321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_157
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 98
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78be6ac58089b4541bfc589dcb6f815b
+      internalID: 3959338606314124667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_158
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 98
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855f675f548372f439df9e916e444ea0
+      internalID: -2834441434603567036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_159
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 98
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344cf6a9ae832944a8f5697ca2f95e90
+      internalID: 4735026878007448177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_160
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 28
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632b66a0190ff134d855cb4aa4d2f9d9
+      internalID: -1937472002149884558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_161
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 28
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb7077f7760af74cbf0841b12da86c9
+      internalID: -3876336260793970455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_162
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 28
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6459ce5db44bb74084a1e4ee9b26d18
+      internalID: 3896694121948278364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_163
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 28
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acde7f22aff1a604caec72c038adc3af
+      internalID: 5942121546881023512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_164
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 28
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623bcbc30bcf53f4ea9d59e2420ca504
+      internalID: -3199355955038851986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_165
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 28
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de981cb574b78724892ea68722c60689
+      internalID: 3400995591607882869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_166
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 28
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4ce74d1974e8a448b48f1d17a2a768
+      internalID: -7256111768520122254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_167
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 28
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad19496f6e2dff42993263e7ed452be
+      internalID: -5256454863688140901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_168
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 28
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531a8ae195c6679409884e3997e25d12
+      internalID: 2694005761194822084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_169
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 28
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8bcd799d59e0634a8243d5881a12ee4
+      internalID: 6150349232244119399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_170
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 28
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acad86413ad7cd04d8faefa353e28ca9
+      internalID: -4686710682570056924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_171
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 28
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f09a5fc878c5624791c8463d3bd0592
+      internalID: 7357256168003670826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_172
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 28
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311429937fa1e8344a2b4822e3650f31
+      internalID: -8952707023933677610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_173
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 28
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e78baae2ccd5346a8f445cf340d5f0
+      internalID: 1392822861995110557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_174
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 28
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837b36298daa269488d0faa3f5d688c7
+      internalID: -4710997010761945389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAPA TOTAL_175
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 28
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195ec3d89fd74634b93ed626968bac1b
+      internalID: -7191152409309308505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

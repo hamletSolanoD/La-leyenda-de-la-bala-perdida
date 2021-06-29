@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - PanDeMuerto
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Players
+    uniqueID: 3768046441
+    locked: 0
+  - name: Details
+    uniqueID: 3473998561
+    locked: 0
+  - name: Floor
+    uniqueID: 2271176967
+    locked: 0
+  - name: Builds
+    uniqueID: 3544438207
+    locked: 0
+  - name: Inside
+    uniqueID: 3283845507
+    locked: 0
+  - name: ground
+    uniqueID: 133143537
+    locked: 0
