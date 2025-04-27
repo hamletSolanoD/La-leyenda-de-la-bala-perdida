@@ -3,7 +3,7 @@
 ![Student Project](https://img.shields.io/badge/Project-Student-orange)
 ![Created in](https://img.shields.io/badge/Created_in-48_hours-blue)
 ![Made with](https://img.shields.io/badge/Made_with-Unity_and_♥-red)
-![Experience](https://img.shields.io/badge/Experience-First_game-green)
+![Experience](https://img.shields.io/badge/Experience-First_games-green)
 
 ## 💭 The Story Behind the Game
 This little game was born during a hackathon organized by the Interactive Media Development Department at the Autonomous University of Ciudad Juarez. Imagine creating a complete video game in just 2 days and one night!.
